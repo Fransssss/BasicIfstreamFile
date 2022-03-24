@@ -34,6 +34,8 @@ int main() {
         }
         cout << '.' << endl;
     }
+    
+    file.close();
 
     return 0;
 }
